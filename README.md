@@ -13,6 +13,7 @@ This is a simple console-based Election Voting System written in C. Users can ca
 
 ## Introduction
 
+![Election management system](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geeksforgeeks.org%2Fonline-voting-system-in-c%2F&psig=AOvVaw0lwOf8pxQYdWLj-tpSFO2h&ust=1705852657460000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDFksKq7IMDFQAAAAAdAAAAABAD)
 
 Welcome to the Election Voting System, a simple console-based program written in C that facilitates the voting process for elections. This system allows users to cast their votes for candidates or choose "None of These." The program then calculates and displays the vote counts for each candidate and identifies the leading candidate.
 
