@@ -13,7 +13,7 @@ This is a simple console-based Election Voting System written in C. Users can ca
 
 ## Introduction
 
-![Election management system](C:\Users\Lohith\OneDrive\Documents\Projects\election-management-system\readme_images)
+![Election management system](readme_images/read_me_image.webp)
 
 Welcome to the Election Voting System, a simple console-based program written in C that facilitates the voting process for elections. This system allows users to cast their votes for candidates or choose "None of These." The program then calculates and displays the vote counts for each candidate and identifies the leading candidate.
 
