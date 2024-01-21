@@ -9,7 +9,6 @@ This is a simple console-based Election Voting System written in C. Users can ca
 - [Getting Started](#getting-started)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
