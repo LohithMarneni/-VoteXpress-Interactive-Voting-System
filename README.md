@@ -61,15 +61,6 @@ Follow these steps to use the Election Voting System:
 - **Demonstration:** Use it as a demonstration tool in classrooms or workshops to illustrate the fundamentals of election systems.
 - **Customization:** Easily modify the code to suit specific requirements or add additional features.
 
-# Contributing
-
-This project was developed by a team of dedicated individuals under the guidance of Tapas Kumar Mishra, Assistant Professor at SRM University AP. The team members are:
-
-- **Team Lead:** Lohith Marneni
-- **Team Members:**
-  - Lokesh Chirumamilla
-  - Sahithi Mukkamala
-  - Sukesh Pamujula
 
 ## How to Contribute
 
